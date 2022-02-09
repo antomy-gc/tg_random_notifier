@@ -1,0 +1,31 @@
+{
+    "_tg_key": "1112223344:ZZZZXXXXfffCCdd0e-v9adlMQQ_4DF2-Q00",
+    "_tg_chat_id": 123456789,
+    "_tg_hide_text": false,
+    "_reminders": [
+        {
+            "_name": "Частое",
+            "_messages": [
+                "message 1-1",
+                "message 1-2",
+                "message 1-3"
+            ],
+            "_time_range": [
+                5,
+                15
+            ]
+        },
+        {
+            "_name": "Редкое",
+            "_messages": [
+                "message 2-1",
+                "message 2-2",
+                "message 2-3"
+            ],
+            "_time_range": [
+                30,
+                60
+            ]
+        }
+    ]
+}
